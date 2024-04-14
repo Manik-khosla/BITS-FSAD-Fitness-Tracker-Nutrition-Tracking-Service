@@ -1,0 +1,21 @@
+{
+  "name": "bits-fsad-fitness-tracker-nutrition-tracking-service",
+  "version": "1.0.0",
+  "description": "Nutrition Tracking service which shows calorie count intake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nutrition",
+    "Track",
+    "Calorie",
+    "Count",
+    "Intake"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
